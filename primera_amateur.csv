@@ -1,0 +1,709 @@
+club_1,club_2,dif,pj,pg,pe,pp
+All Boys,El Porvenir,0,8,3,2,3
+All Boys,Sp. Barracas,-3,8,2,1,5
+All Boys,Nueva Chicago,-4,8,1,2,5
+All Boys,Argentino (Q),+4,7,4,3,0
+All Boys,Dock Sud,-1,5,2,0,3
+All Boys,Colegiales,+2,5,3,1,1
+All Boys,Banfield,-2,4,1,0,3
+All Boys,Temperley,-1,4,1,1,2
+All Boys,Almagro,0,4,1,2,1
+All Boys,Argentinos,-2,4,0,2,2
+All Boys,Estudiantes (BA),-1,4,1,1,2
+All Boys,Huracan,-3,4,0,1,3
+All Boys,Def. de Belgrano,+1,4,2,1,1
+All Boys,Barracas Central,-2,4,1,0,3
+All Boys,Excursionistas,-2,4,1,0,3
+All Boys,Estudiantes (LP),-1,1,0,0,1
+All Boys,Chacarita,-1,1,0,0,1
+All Boys,Boca Juniors,-1,1,0,0,1
+Almagro,Banfield,+1,9,4,2,3
+Almagro,Estudiantes (BA),+1,9,3,4,2
+Almagro,Def. de Belgrano,-2,8,3,0,5
+Almagro,Argentino (Q),+1,8,4,1,3
+Almagro,Sp. Barracas,+2,8,5,0,3
+Almagro,Barracas Central,+2,8,5,0,3
+Almagro,El Porvenir,+1,8,4,1,3
+Almagro,Excursionistas,+2,8,4,2,2
+Almagro,Colegiales,0,7,2,3,2
+Almagro,Nueva Chicago,0,5,2,1,2
+Almagro,Huracan,-2,4,1,0,3
+Almagro,Tigre,-3,4,0,1,3
+Almagro,Talleres (RdE),+1,4,2,1,1
+Almagro,Platense,+2,4,2,2,0
+Almagro,All Boys,0,4,1,2,1
+Almagro,Estudiantes (LP),-2,4,1,0,3
+Almagro,Atlanta,-2,4,1,0,3
+Almagro,River Plate,-1,4,0,3,1
+Almagro,Gimnasia (LP),0,4,1,2,1
+Almagro,Lanus,-1,4,1,1,2
+Almagro,Racing Club,-1,4,1,1,2
+Almagro,Argentinos,0,3,1,1,1
+Almagro,Chacarita,0,3,1,1,1
+Almagro,Ferro,0,3,1,1,1
+Almagro,San Lorenzo,-1,3,1,0,2
+Almagro,Quilmes,+1,3,2,0,1
+Almagro,Velez,-2,3,0,1,2
+Almagro,Independiente,-3,3,0,0,3
+Almagro,Boca Juniors,-1,3,1,0,2
+Almagro,Dock Sud,-2,2,0,0,2
+Argentinos,Boca Juniors,+1,9,4,2,3
+Argentinos,Huracan,-5,8,1,1,6
+Argentinos,Argentino (Q),+4,8,5,2,1
+Argentinos,Sp. Barracas,-2,7,0,5,2
+Argentinos,El Porvenir,-2,6,1,2,3
+Argentinos,Chacarita,-2,6,2,0,4
+Argentinos,Dock Sud,+1,5,2,2,1
+Argentinos,Estudiantes (LP),-1,5,1,2,2
+Argentinos,Barracas Central,-2,4,1,0,3
+Argentinos,Independiente,-3,4,0,1,3
+Argentinos,Quilmes,-1,4,1,1,2
+Argentinos,Nueva Chicago,-3,4,0,1,3
+Argentinos,Ferro,-2,4,1,0,3
+Argentinos,San Lorenzo,-2,4,1,0,3
+Argentinos,Temperley,-2,4,1,0,3
+Argentinos,Excursionistas,0,4,2,0,2
+Argentinos,Velez,-2,4,1,0,3
+Argentinos,Def. de Belgrano,-1,4,1,1,2
+Argentinos,All Boys,+2,4,2,2,0
+Argentinos,Atlanta,+2,3,2,1,0
+Argentinos,Talleres (RdE),+1,3,1,2,0
+Argentinos,Platense,-2,3,0,1,2
+Argentinos,Estudiantes (BA),0,3,0,3,0
+Argentinos,Gimnasia (LP),-1,3,0,2,1
+Argentinos,Banfield,+2,3,2,1,0
+Argentinos,River Plate,+1,3,1,2,0
+Argentinos,Lanus,-1,3,1,0,2
+Argentinos,Tigre,0,3,1,1,1
+Argentinos,Almagro,0,3,1,1,1
+Argentinos,Racing Club,0,3,1,1,1
+Argentinos,Colegiales,+1,2,1,1,0
+Atlanta,Independiente,-12,24,5,2,17
+Atlanta,Tigre,-5,21,5,6,10
+Atlanta,Platense,-2,19,6,5,8
+Atlanta,River Plate,-8,19,4,3,12
+Atlanta,Estudiantes (BA),+6,19,11,3,5
+Atlanta,Racing Club,-17,19,0,2,17
+Atlanta,Gimnasia (LP),-4,18,5,4,9
+Atlanta,San Lorenzo,-14,18,0,4,14
+Atlanta,Ferro,-5,17,4,4,9
+Atlanta,Estudiantes (LP),-4,17,5,3,9
+Atlanta,Def. de Belgrano,0,16,6,4,6
+Atlanta,Banfield,-5,15,4,2,9
+Atlanta,Quilmes,+4,15,8,3,4
+Atlanta,Velez,-5,14,2,5,7
+Atlanta,Lanus,+2,13,6,3,4
+Atlanta,Barracas Central,+3,13,8,0,5
+Atlanta,Argentino (Q),-2,11,3,3,5
+Atlanta,Huracan,-2,8,2,2,4
+Atlanta,Boca Juniors,-6,7,0,1,6
+Atlanta,Sp. Barracas,-2,6,1,2,3
+Atlanta,Talleres (RdE),-4,5,0,1,4
+Atlanta,Excursionistas,-1,5,1,2,2
+Atlanta,Almagro,+2,4,3,0,1
+Atlanta,Chacarita,-1,3,1,0,2
+Atlanta,Argentinos,-2,3,0,1,2
+Atlanta,El Porvenir,-1,3,1,0,2
+Atlanta,Colegiales,0,2,0,2,0
+Banfield,Estudiantes (BA),+3,22,10,5,7
+Banfield,Platense,-6,18,4,4,10
+Banfield,River Plate,-17,18,0,1,17
+Banfield,Racing Club,-9,18,4,1,13
+Banfield,Def. de Belgrano,+6,17,10,3,4
+Banfield,Ferro,+9,16,11,3,2
+Banfield,Barracas Central,-2,16,4,6,6
+Banfield,Atlanta,+5,15,9,2,4
+Banfield,Tigre,-2,15,4,5,6
+Banfield,Quilmes,-1,15,5,4,6
+Banfield,Gimnasia (LP),-6,14,3,2,9
+Banfield,San Lorenzo,-4,14,3,4,7
+Banfield,Independiente,-4,14,4,2,8
+Banfield,Lanus,+1,14,4,7,3
+Banfield,Velez,-1,11,3,4,4
+Banfield,Sp. Barracas,-1,11,4,2,5
+Banfield,Argentino (Q),-1,11,4,2,5
+Banfield,Estudiantes (LP),-3,11,3,2,6
+Banfield,Boca Juniors,-7,10,1,1,8
+Banfield,Huracan,+1,10,3,5,2
+Banfield,Excursionistas,+8,9,8,1,0
+Banfield,Nueva Chicago,+6,9,7,1,1
+Banfield,Almagro,-1,9,3,2,4
+Banfield,El Porvenir,-1,8,3,1,4
+Banfield,Colegiales,+2,7,3,3,1
+Banfield,Talleres (RdE),0,5,1,3,1
+Banfield,All Boys,+2,4,3,0,1
+Banfield,Argentinos,-2,3,0,1,2
+Banfield,Chacarita,+1,3,1,2,0
+Banfield,Dock Sud,-1,2,0,1,1
+Barracas Central,Def. de Belgrano,+2,19,7,7,5
+Barracas Central,Estudiantes (BA),+4,18,10,2,6
+Barracas Central,Banfield,+2,16,6,6,4
+Barracas Central,Velez,-4,14,3,4,7
+Barracas Central,Independiente,-1,14,5,3,6
+Barracas Central,Quilmes,+4,14,8,2,4
+Barracas Central,Racing Club,-9,14,2,1,11
+Barracas Central,San Lorenzo,-11,14,0,3,11
+Barracas Central,Ferro,+4,14,7,4,3
+Barracas Central,Platense,-1,13,4,4,5
+Barracas Central,River Plate,-5,13,2,4,7
+Barracas Central,Gimnasia (LP),-5,13,3,2,8
+Barracas Central,Tigre,+2,13,6,3,4
+Barracas Central,Atlanta,-3,13,5,0,8
+Barracas Central,Lanus,-4,12,2,4,6
+Barracas Central,Excursionistas,-1,11,3,4,4
+Barracas Central,Sp. Barracas,-6,9,0,3,6
+Barracas Central,Argentino (Q),+2,9,5,1,3
+Barracas Central,Almagro,-2,8,3,0,5
+Barracas Central,El Porvenir,+2,7,4,1,2
+Barracas Central,Colegiales,+2,6,3,2,1
+Barracas Central,Estudiantes (LP),-2,6,0,4,2
+Barracas Central,Nueva Chicago,+2,5,3,1,1
+Barracas Central,Talleres (RdE),-1,4,1,1,2
+Barracas Central,Argentinos,+2,4,3,0,1
+Barracas Central,Boca Juniors,-4,4,0,0,4
+Barracas Central,Chacarita,-1,4,1,1,2
+Barracas Central,All Boys,+2,4,3,0,1
+Barracas Central,Huracan,-3,3,0,0,3
+Barracas Central,Dock Sud,-1,2,0,1,1
+Boca Juniors,Huracan,+7,22,11,7,4
+Boca Juniors,Sp. Barracas,+8,15,10,3,2
+Boca Juniors,Estudiantes (LP),+5,14,7,5,2
+Boca Juniors,San Lorenzo,+7,11,8,2,1
+Boca Juniors,Argentino (Q),+8,11,9,1,1
+Boca Juniors,Estudiantes (BA),+7,10,8,1,1
+Boca Juniors,Ferro,+5,10,5,5,0
+Boca Juniors,Banfield,+7,10,8,1,1
+Boca Juniors,Quilmes,+3,9,5,2,2
+Boca Juniors,Platense,0,9,3,3,3
+Boca Juniors,River Plate,-1,9,3,2,4
+Boca Juniors,Racing Club,-2,9,3,1,5
+Boca Juniors,Argentinos,-1,9,3,2,4
+Boca Juniors,Independiente,0,8,3,2,3
+Boca Juniors,Gimnasia (LP),0,7,3,1,3
+Boca Juniors,El Porvenir,+6,7,6,1,0
+Boca Juniors,Nueva Chicago,+4,7,5,1,1
+Boca Juniors,Tigre,+3,7,5,0,2
+Boca Juniors,Atlanta,+6,7,6,1,0
+Boca Juniors,Def. de Belgrano,+3,6,4,1,1
+Boca Juniors,Lanus,+3,5,4,0,1
+Boca Juniors,Chacarita,+5,5,5,0,0
+Boca Juniors,Barracas Central,+4,4,4,0,0
+Boca Juniors,Excursionistas,+2,4,2,2,0
+Boca Juniors,Dock Sud,+4,4,4,0,0
+Boca Juniors,Velez,+4,4,4,0,0
+Boca Juniors,Almagro,+1,3,2,0,1
+Boca Juniors,Talleres (RdE),+1,3,2,0,1
+Boca Juniors,Temperley,-1,2,0,1,1
+Boca Juniors,All Boys,+1,1,1,0,0
+Boca Juniors,Colegiales,+1,1,1,0,0
+Chacarita,Argentino (Q),-1,6,2,1,3
+Chacarita,Argentinos,+2,6,4,0,2
+Chacarita,Huracan,-1,5,1,2,2
+Chacarita,Sp. Barracas,-1,5,2,0,3
+Chacarita,Boca Juniors,-5,5,0,0,5
+Chacarita,Def. de Belgrano,+2,4,3,0,1
+Chacarita,San Lorenzo,0,4,1,2,1
+Chacarita,Independiente,-1,4,1,1,2
+Chacarita,Velez,+2,4,3,0,1
+Chacarita,Quilmes,+1,4,2,1,1
+Chacarita,Barracas Central,+1,4,2,1,1
+Chacarita,Ferro,0,4,1,2,1
+Chacarita,Excursionistas,+2,4,3,0,1
+Chacarita,Banfield,-1,3,0,2,1
+Chacarita,Estudiantes (LP),-2,3,0,1,2
+Chacarita,Racing Club,-1,3,1,0,2
+Chacarita,Almagro,0,3,1,1,1
+Chacarita,Lanus,+2,3,2,1,0
+Chacarita,El Porvenir,+3,3,3,0,0
+Chacarita,Gimnasia (LP),0,3,1,1,1
+Chacarita,Talleres (RdE),-1,3,0,2,1
+Chacarita,Tigre,+2,3,2,1,0
+Chacarita,Estudiantes (BA),-1,3,0,2,1
+Chacarita,Atlanta,+1,3,2,0,1
+Chacarita,River Plate,-2,3,0,1,2
+Chacarita,Colegiales,+2,2,2,0,0
+Chacarita,Dock Sud,+1,2,1,1,0
+Chacarita,Platense,-1,2,0,1,1
+Chacarita,Temperley,-1,1,0,0,1
+Chacarita,All Boys,+1,1,1,0,0
+Chacarita,Nueva Chicago,-1,1,0,0,1
+Def. de Belgrano,Estudiantes (BA),+12,21,16,1,4
+Def. de Belgrano,Barracas Central,-2,19,5,7,7
+Def. de Belgrano,Tigre,+5,18,8,7,3
+Def. de Belgrano,Independiente,-2,17,4,7,6
+Def. de Belgrano,San Lorenzo,-13,17,2,0,15
+Def. de Belgrano,Banfield,-6,17,4,3,10
+Def. de Belgrano,Ferro,-2,16,5,4,7
+Def. de Belgrano,Platense,-4,16,2,8,6
+Def. de Belgrano,Racing Club,-10,16,2,2,12
+Def. de Belgrano,River Plate,-9,16,2,3,11
+Def. de Belgrano,Atlanta,0,16,6,4,6
+Def. de Belgrano,Quilmes,+2,15,7,3,5
+Def. de Belgrano,Gimnasia (LP),-3,15,5,2,8
+Def. de Belgrano,Velez,-1,15,5,4,6
+Def. de Belgrano,Lanus,-3,12,3,3,6
+Def. de Belgrano,Argentino (Q),+3,11,6,2,3
+Def. de Belgrano,Sp. Barracas,-1,11,4,2,5
+Def. de Belgrano,Excursionistas,+1,11,5,2,4
+Def. de Belgrano,Estudiantes (LP),-1,8,3,1,4
+Def. de Belgrano,Almagro,+2,8,5,0,3
+Def. de Belgrano,El Porvenir,+1,7,4,0,3
+Def. de Belgrano,Colegiales,+1,6,2,3,1
+Def. de Belgrano,Boca Juniors,-3,6,1,1,4
+Def. de Belgrano,Huracan,-2,5,1,1,3
+Def. de Belgrano,Nueva Chicago,-2,5,1,1,3
+Def. de Belgrano,Argentinos,+1,4,2,1,1
+Def. de Belgrano,Talleres (RdE),-1,4,1,1,2
+Def. de Belgrano,All Boys,-1,4,1,1,2
+Def. de Belgrano,Chacarita,-2,4,1,0,3
+Def. de Belgrano,Dock Sud,0,2,1,0,1
+Estudiantes (BA),Quilmes,+10,34,18,8,8
+Estudiantes (BA),River Plate,-15,27,4,4,19
+Estudiantes (BA),Racing Club,-14,24,3,4,17
+Estudiantes (BA),Banfield,-3,22,7,5,10
+Estudiantes (BA),Def. de Belgrano,-12,21,4,1,16
+Estudiantes (BA),Platense,-7,20,5,3,12
+Estudiantes (BA),Argentino (Q),+4,20,10,4,6
+Estudiantes (BA),Ferro,-2,19,7,3,9
+Estudiantes (BA),Tigre,-9,19,3,4,12
+Estudiantes (BA),Atlanta,-6,19,5,3,11
+Estudiantes (BA),Barracas Central,-4,18,6,2,10
+Estudiantes (BA),San Lorenzo,-9,18,3,3,12
+Estudiantes (BA),Gimnasia (LP),-9,18,3,3,12
+Estudiantes (BA),Independiente,-7,18,3,5,10
+Estudiantes (BA),Velez,-5,14,2,5,7
+Estudiantes (BA),Lanus,-8,13,1,3,9
+Estudiantes (BA),Estudiantes (LP),-7,11,2,0,9
+Estudiantes (BA),Sp. Barracas,-7,11,1,2,8
+Estudiantes (BA),Excursionistas,-4,10,1,4,5
+Estudiantes (BA),Boca Juniors,-7,10,1,1,8
+Estudiantes (BA),Huracan,-1,9,3,2,4
+Estudiantes (BA),Almagro,-1,9,2,4,3
+Estudiantes (BA),El Porvenir,-2,8,2,2,4
+Estudiantes (BA),Colegiales,0,7,2,3,2
+Estudiantes (BA),Talleres (RdE),-2,6,2,0,4
+Estudiantes (BA),Nueva Chicago,+2,5,3,1,1
+Estudiantes (BA),All Boys,+1,4,2,1,1
+Estudiantes (BA),Chacarita,+1,3,1,2,0
+Estudiantes (BA),Argentinos,0,3,0,3,0
+Estudiantes (BA),Dock Sud,-2,2,0,0,2
+Estudiantes (LP),Atlanta,+4,17,9,3,5
+Estudiantes (LP),Independiente,+2,16,7,4,5
+Estudiantes (LP),Huracan,-2,16,6,2,8
+Estudiantes (LP),Boca Juniors,-5,14,2,5,7
+Estudiantes (LP),Tigre,+10,13,11,1,1
+Estudiantes (LP),Racing Club,-1,12,4,3,5
+Estudiantes (LP),Argentino (Q),0,12,4,4,4
+Estudiantes (LP),River Plate,0,11,3,5,3
+Estudiantes (LP),Banfield,+3,11,6,2,3
+Estudiantes (LP),Estudiantes (BA),+7,11,9,0,2
+Estudiantes (LP),Sp. Barracas,+4,11,7,1,3
+Estudiantes (LP),Platense,-1,11,3,4,4
+Estudiantes (LP),Ferro,+3,10,6,1,3
+Estudiantes (LP),Gimnasia (LP),+3,10,5,3,2
+Estudiantes (LP),San Lorenzo,0,10,5,0,5
+Estudiantes (LP),Lanus,+1,9,3,4,2
+Estudiantes (LP),Quilmes,+1,8,4,1,3
+Estudiantes (LP),Def. de Belgrano,+1,8,4,1,3
+Estudiantes (LP),El Porvenir,+2,7,4,1,2
+Estudiantes (LP),Velez,+3,6,4,1,1
+Estudiantes (LP),Barracas Central,+2,6,2,4,0
+Estudiantes (LP),Nueva Chicago,+2,6,3,2,1
+Estudiantes (LP),Argentinos,+1,5,2,2,1
+Estudiantes (LP),Excursionistas,+1,5,3,0,2
+Estudiantes (LP),Talleres (RdE),+1,4,2,1,1
+Estudiantes (LP),Almagro,+2,4,3,0,1
+Estudiantes (LP),Chacarita,+2,3,2,1,0
+Estudiantes (LP),Dock Sud,+1,2,1,1,0
+Estudiantes (LP),Colegiales,0,2,1,0,1
+Estudiantes (LP),Temperley,+1,1,1,0,0
+Estudiantes (LP),All Boys,+1,1,1,0,0
+Ferro,Quilmes,+2,20,9,4,7
+Ferro,Platense,-7,19,4,4,11
+Ferro,Estudiantes (BA),+2,19,9,3,7
+Ferro,River Plate,-10,19,3,3,13
+Ferro,Racing Club,-15,19,1,2,16
+Ferro,San Lorenzo,-8,18,3,4,11
+Ferro,Independiente,-9,18,2,5,11
+Ferro,Tigre,-6,17,5,1,11
+Ferro,Atlanta,+5,17,9,4,4
+Ferro,Gimnasia (LP),-8,16,2,4,10
+Ferro,Def. de Belgrano,+2,16,7,4,5
+Ferro,Banfield,-9,16,2,3,11
+Ferro,Barracas Central,-4,14,3,4,7
+Ferro,Velez,-3,14,3,5,6
+Ferro,Lanus,-6,12,1,4,7
+Ferro,Boca Juniors,-5,10,0,5,5
+Ferro,Estudiantes (LP),-3,10,3,1,6
+Ferro,Huracan,-5,8,1,1,6
+Ferro,Argentino (Q),+2,8,4,2,2
+Ferro,Sp. Barracas,+3,6,3,3,0
+Ferro,Excursionistas,+1,5,2,2,1
+Ferro,Talleres (RdE),-2,4,1,0,3
+Ferro,Argentinos,+2,4,3,0,1
+Ferro,Chacarita,0,4,1,2,1
+Ferro,Almagro,0,3,1,1,1
+Ferro,El Porvenir,-2,2,0,0,2
+Ferro,Colegiales,-1,1,0,0,1
+Gimnasia (LP),Tigre,+7,19,11,4,4
+Gimnasia (LP),Platense,+3,18,7,7,4
+Gimnasia (LP),Racing Club,-9,18,2,5,11
+Gimnasia (LP),Estudiantes (BA),+9,18,12,3,3
+Gimnasia (LP),River Plate,+1,18,8,3,7
+Gimnasia (LP),Atlanta,+4,18,9,4,5
+Gimnasia (LP),Independiente,-1,17,5,6,6
+Gimnasia (LP),San Lorenzo,-2,16,5,4,7
+Gimnasia (LP),Ferro,+8,16,10,4,2
+Gimnasia (LP),Def. de Belgrano,+3,15,8,2,5
+Gimnasia (LP),Velez,+3,14,6,5,3
+Gimnasia (LP),Quilmes,+5,14,9,1,4
+Gimnasia (LP),Banfield,+6,14,9,2,3
+Gimnasia (LP),Lanus,+4,13,7,3,3
+Gimnasia (LP),Barracas Central,+5,13,8,2,3
+Gimnasia (LP),Estudiantes (LP),-3,10,2,3,5
+Gimnasia (LP),Huracan,0,7,3,1,3
+Gimnasia (LP),Boca Juniors,0,7,3,1,3
+Gimnasia (LP),Argentino (Q),-3,6,0,3,3
+Gimnasia (LP),Sp. Barracas,-4,6,0,2,4
+Gimnasia (LP),Talleres (RdE),+2,5,2,3,0
+Gimnasia (LP),Excursionistas,0,5,1,3,1
+Gimnasia (LP),Almagro,0,4,1,2,1
+Gimnasia (LP),El Porvenir,+1,3,2,0,1
+Gimnasia (LP),Argentinos,+1,3,1,2,0
+Gimnasia (LP),Chacarita,0,3,1,1,1
+Gimnasia (LP),Colegiales,0,2,1,0,1
+Huracan,Boca Juniors,-7,22,4,7,11
+Huracan,Estudiantes (LP),+2,16,8,2,6
+Huracan,Sp. Barracas,+9,13,11,0,2
+Huracan,Argentino (Q),+10,11,10,1,0
+Huracan,El Porvenir,+4,10,5,4,1
+Huracan,Banfield,-1,10,2,5,3
+Huracan,Platense,+5,9,5,4,0
+Huracan,Estudiantes (BA),+1,9,4,2,3
+Huracan,River Plate,0,9,4,1,4
+Huracan,Nueva Chicago,+2,9,5,1,3
+Huracan,Racing Club,-7,9,0,2,7
+Huracan,Argentinos,+5,8,6,1,1
+Huracan,Ferro,+5,8,6,1,1
+Huracan,Tigre,+8,8,8,0,0
+Huracan,Atlanta,+2,8,4,2,2
+Huracan,Gimnasia (LP),0,7,3,1,3
+Huracan,San Lorenzo,-5,7,0,2,5
+Huracan,Independiente,+1,7,3,2,2
+Huracan,Lanus,+1,6,2,3,1
+Huracan,Quilmes,+1,6,3,1,2
+Huracan,Dock Sud,+6,6,6,0,0
+Huracan,Def. de Belgrano,+2,5,3,1,1
+Huracan,Chacarita,+1,5,2,2,1
+Huracan,All Boys,+3,4,3,1,0
+Huracan,Temperley,+1,4,2,1,1
+Huracan,Talleres (RdE),+3,4,3,1,0
+Huracan,Almagro,+2,4,3,0,1
+Huracan,Excursionistas,-1,3,1,0,2
+Huracan,Velez,+1,3,1,2,0
+Huracan,Barracas Central,+3,3,3,0,0
+Huracan,Colegiales,+3,3,3,0,0
+Independiente,Atlanta,+12,24,17,2,5
+Independiente,Tigre,+8,20,12,4,4
+Independiente,San Lorenzo,-2,19,7,3,9
+Independiente,Racing Club,0,18,8,2,8
+Independiente,River Plate,0,18,6,6,6
+Independiente,Ferro,+9,18,11,5,2
+Independiente,Estudiantes (BA),+7,18,10,5,3
+Independiente,Platense,+2,18,7,6,5
+Independiente,Quilmes,+7,17,10,4,3
+Independiente,Gimnasia (LP),+1,17,6,6,5
+Independiente,Def. de Belgrano,+2,17,6,7,4
+Independiente,Estudiantes (LP),-2,16,5,4,7
+Independiente,Velez,+6,15,9,3,3
+Independiente,Barracas Central,+1,14,6,3,5
+Independiente,Banfield,+4,14,8,2,4
+Independiente,Lanus,+9,12,9,3,0
+Independiente,Argentino (Q),+4,12,7,2,3
+Independiente,Boca Juniors,0,8,3,2,3
+Independiente,Sp. Barracas,+1,7,3,2,2
+Independiente,Huracan,-1,7,2,2,3
+Independiente,Excursionistas,+4,6,5,0,1
+Independiente,Argentinos,+3,4,3,1,0
+Independiente,Talleres (RdE),+4,4,4,0,0
+Independiente,Chacarita,+1,4,2,1,1
+Independiente,Almagro,+3,3,3,0,0
+Independiente,El Porvenir,+1,2,1,1,0
+Independiente,Colegiales,+1,1,1,0,0
+Lanus,Banfield,-1,14,3,7,4
+Lanus,Gimnasia (LP),-4,13,3,3,7
+Lanus,Platense,-5,13,4,0,9
+Lanus,Atlanta,-2,13,4,3,6
+Lanus,Estudiantes (BA),+8,13,9,3,1
+Lanus,River Plate,-3,13,4,2,7
+Lanus,Racing Club,-6,13,1,5,7
+Lanus,Tigre,+2,13,6,3,4
+Lanus,Independiente,-9,12,0,3,9
+Lanus,San Lorenzo,-8,12,1,2,9
+Lanus,Velez,+1,12,5,3,4
+Lanus,Quilmes,-6,12,2,2,8
+Lanus,Ferro,+6,12,7,4,1
+Lanus,Barracas Central,+4,12,6,4,2
+Lanus,Def. de Belgrano,+3,12,6,3,3
+Lanus,Estudiantes (LP),-1,9,2,4,3
+Lanus,Huracan,-1,6,1,3,2
+Lanus,Excursionistas,+1,5,3,0,2
+Lanus,Sp. Barracas,+2,5,3,1,1
+Lanus,Boca Juniors,-3,5,1,0,4
+Lanus,Talleres (RdE),0,5,2,1,2
+Lanus,Almagro,+1,4,2,1,1
+Lanus,Argentinos,+1,3,2,0,1
+Lanus,Argentino (Q),0,3,1,1,1
+Lanus,El Porvenir,0,3,1,1,1
+Lanus,Chacarita,-2,3,0,1,2
+Lanus,Colegiales,+1,2,1,1,0
+Lanus,Nueva Chicago,0,2,1,0,1
+Nueva Chicago,Sp. Barracas,+6,14,9,2,3
+Nueva Chicago,El Porvenir,-3,11,2,4,5
+Nueva Chicago,Banfield,-6,9,1,1,7
+Nueva Chicago,Huracan,-2,9,3,1,5
+Nueva Chicago,Argentino (Q),-1,8,3,1,4
+Nueva Chicago,All Boys,+4,8,5,2,1
+Nueva Chicago,Dock Sud,-3,7,1,2,4
+Nueva Chicago,Boca Juniors,-4,7,1,1,5
+Nueva Chicago,Colegiales,-1,6,2,1,3
+Nueva Chicago,Estudiantes (LP),-2,6,1,2,3
+Nueva Chicago,Estudiantes (BA),-2,5,1,1,3
+Nueva Chicago,Almagro,0,5,2,1,2
+Nueva Chicago,Excursionistas,+2,5,3,1,1
+Nueva Chicago,Barracas Central,-2,5,1,1,3
+Nueva Chicago,Def. de Belgrano,+2,5,3,1,1
+Nueva Chicago,Temperley,+4,4,4,0,0
+Nueva Chicago,Argentinos,+3,4,3,1,0
+Nueva Chicago,Lanus,0,2,1,0,1
+Nueva Chicago,Platense,+1,1,1,0,0
+Nueva Chicago,Chacarita,+1,1,1,0,0
+Platense,River Plate,-11,22,4,3,15
+Platense,Racing Club,-6,22,7,2,13
+Platense,Estudiantes (BA),+7,20,12,3,5
+Platense,Tigre,0,19,6,7,6
+Platense,Ferro,+7,19,11,4,4
+Platense,Atlanta,+2,19,8,5,6
+Platense,Gimnasia (LP),-3,18,4,7,7
+Platense,Banfield,+6,18,10,4,4
+Platense,San Lorenzo,0,18,7,4,7
+Platense,Independiente,-2,18,5,6,7
+Platense,Quilmes,0,17,8,1,8
+Platense,Def. de Belgrano,+4,16,6,8,2
+Platense,Velez,-2,14,4,4,6
+Platense,Barracas Central,+1,13,5,4,4
+Platense,Lanus,+5,13,9,0,4
+Platense,Estudiantes (LP),+1,11,4,4,3
+Platense,Huracan,-5,9,0,4,5
+Platense,Boca Juniors,0,9,3,3,3
+Platense,Argentino (Q),+1,7,3,2,2
+Platense,Sp. Barracas,0,6,2,2,2
+Platense,Talleres (RdE),+2,5,3,1,1
+Platense,Excursionistas,+3,5,4,0,1
+Platense,Almagro,-2,4,0,2,2
+Platense,El Porvenir,+3,3,3,0,0
+Platense,Argentinos,+2,3,2,1,0
+Platense,Colegiales,0,3,1,1,1
+Platense,Chacarita,+1,2,1,1,0
+Platense,Nueva Chicago,-1,1,0,0,1
+Quilmes,Estudiantes (BA),-10,34,8,8,18
+Quilmes,River Plate,-11,25,5,4,16
+Quilmes,Racing Club,-14,21,2,3,16
+Quilmes,Ferro,-2,20,7,4,9
+Quilmes,Independiente,-7,17,3,4,10
+Quilmes,Platense,0,17,8,1,8
+Quilmes,San Lorenzo,-8,16,2,4,10
+Quilmes,Argentino (Q),-1,16,6,3,7
+Quilmes,Atlanta,-4,15,4,3,8
+Quilmes,Def. de Belgrano,-2,15,5,3,7
+Quilmes,Tigre,-3,15,5,2,8
+Quilmes,Banfield,+1,15,6,4,5
+Quilmes,Gimnasia (LP),-5,14,4,1,9
+Quilmes,Barracas Central,-4,14,4,2,8
+Quilmes,Velez,-3,14,5,1,8
+Quilmes,Lanus,+6,12,8,2,2
+Quilmes,Boca Juniors,-3,9,2,2,5
+Quilmes,Estudiantes (LP),-1,8,3,1,4
+Quilmes,Huracan,-1,6,2,1,3
+Quilmes,Excursionistas,+1,6,3,1,2
+Quilmes,Sp. Barracas,+2,4,2,2,0
+Quilmes,Talleres (RdE),+4,4,4,0,0
+Quilmes,Argentinos,+1,4,2,1,1
+Quilmes,Chacarita,-1,4,1,1,2
+Quilmes,Almagro,-1,3,1,0,2
+Quilmes,El Porvenir,+1,2,1,1,0
+Quilmes,Colegiales,+1,1,1,0,0
+Racing Club,River Plate,+7,27,13,8,6
+Racing Club,Estudiantes (BA),+14,24,17,4,3
+Racing Club,Platense,+6,22,13,2,7
+Racing Club,Quilmes,+14,21,16,3,2
+Racing Club,Atlanta,+17,19,17,2,0
+Racing Club,Tigre,+9,19,13,2,4
+Racing Club,Ferro,+15,19,16,2,1
+Racing Club,Gimnasia (LP),+9,18,11,5,2
+Racing Club,San Lorenzo,+2,18,9,2,7
+Racing Club,Independiente,0,18,8,2,8
+Racing Club,Banfield,+9,18,13,1,4
+Racing Club,Def. de Belgrano,+10,16,12,2,2
+Racing Club,Barracas Central,+9,14,11,1,2
+Racing Club,Velez,+10,14,12,0,2
+Racing Club,Lanus,+6,13,7,5,1
+Racing Club,Estudiantes (LP),+1,12,5,3,4
+Racing Club,Boca Juniors,+2,9,5,1,3
+Racing Club,Huracan,+7,9,7,2,0
+Racing Club,Argentino (Q),+4,7,5,1,1
+Racing Club,Sp. Barracas,+5,6,5,1,0
+Racing Club,Talleres (RdE),+1,5,2,2,1
+Racing Club,Excursionistas,+4,5,4,1,0
+Racing Club,Almagro,+1,4,2,1,1
+Racing Club,El Porvenir,0,3,1,1,1
+Racing Club,Chacarita,+1,3,2,0,1
+Racing Club,Argentinos,0,3,1,1,1
+Racing Club,Colegiales,+1,2,1,1,0
+River Plate,Estudiantes (BA),+15,27,19,4,4
+River Plate,Racing Club,-7,27,6,8,13
+River Plate,Quilmes,+11,25,16,4,5
+River Plate,Platense,+11,22,15,3,4
+River Plate,Atlanta,+8,19,12,3,4
+River Plate,Tigre,+6,19,11,3,5
+River Plate,Ferro,+10,19,13,3,3
+River Plate,San Lorenzo,+3,19,7,8,4
+River Plate,Banfield,+17,18,17,1,0
+River Plate,Gimnasia (LP),-1,18,7,3,8
+River Plate,Independiente,0,18,6,6,6
+River Plate,Def. de Belgrano,+9,16,11,3,2
+River Plate,Velez,+9,14,9,5,0
+River Plate,Barracas Central,+5,13,7,4,2
+River Plate,Lanus,+3,13,7,2,4
+River Plate,Estudiantes (LP),0,11,3,5,3
+River Plate,Argentino (Q),+3,11,6,2,3
+River Plate,Boca Juniors,+1,9,4,2,3
+River Plate,Huracan,0,9,4,1,4
+River Plate,Sp. Barracas,+3,7,4,2,1
+River Plate,Excursionistas,+2,5,3,1,1
+River Plate,Talleres (RdE),+1,5,3,0,2
+River Plate,Almagro,+1,4,1,3,0
+River Plate,Chacarita,+2,3,2,1,0
+River Plate,El Porvenir,+3,3,3,0,0
+River Plate,Argentinos,-1,3,0,2,1
+River Plate,Colegiales,+1,2,1,1,0
+San Lorenzo,River Plate,-3,19,4,8,7
+San Lorenzo,Independiente,+2,19,9,3,7
+San Lorenzo,Atlanta,+14,18,14,4,0
+San Lorenzo,Ferro,+8,18,11,4,3
+San Lorenzo,Tigre,+4,18,9,4,5
+San Lorenzo,Racing Club,-2,18,7,2,9
+San Lorenzo,Platense,0,18,7,4,7
+San Lorenzo,Estudiantes (BA),+9,18,12,3,3
+San Lorenzo,Def. de Belgrano,+13,17,15,0,2
+San Lorenzo,Gimnasia (LP),+2,16,7,4,5
+San Lorenzo,Quilmes,+8,16,10,4,2
+San Lorenzo,Velez,+8,15,9,5,1
+San Lorenzo,Banfield,+4,14,7,4,3
+San Lorenzo,Barracas Central,+11,14,11,3,0
+San Lorenzo,Lanus,+8,12,9,2,1
+San Lorenzo,Boca Juniors,-7,11,1,2,8
+San Lorenzo,Estudiantes (LP),0,10,5,0,5
+San Lorenzo,Argentino (Q),+7,8,7,1,0
+San Lorenzo,Huracan,+5,7,5,2,0
+San Lorenzo,Sp. Barracas,0,7,2,3,2
+San Lorenzo,Excursionistas,+5,6,5,1,0
+San Lorenzo,Argentinos,+2,4,3,0,1
+San Lorenzo,Talleres (RdE),0,4,1,2,1
+San Lorenzo,Chacarita,0,4,1,2,1
+San Lorenzo,Almagro,+1,3,2,0,1
+San Lorenzo,El Porvenir,+2,2,2,0,0
+San Lorenzo,Colegiales,+1,1,1,0,0
+Talleres (RdE),Estudiantes (BA),+2,6,4,0,2
+Talleres (RdE),Racing Club,-1,5,1,2,2
+Talleres (RdE),Platense,-2,5,1,1,3
+Talleres (RdE),Lanus,0,5,2,1,2
+Talleres (RdE),Tigre,-1,5,1,2,2
+Talleres (RdE),Gimnasia (LP),-2,5,0,3,2
+Talleres (RdE),Banfield,0,5,1,3,1
+Talleres (RdE),Atlanta,+4,5,4,1,0
+Talleres (RdE),River Plate,-1,5,2,0,3
+Talleres (RdE),Barracas Central,+1,4,2,1,1
+Talleres (RdE),Velez,-2,4,1,0,3
+Talleres (RdE),Def. de Belgrano,+1,4,2,1,1
+Talleres (RdE),Excursionistas,+1,4,2,1,1
+Talleres (RdE),San Lorenzo,0,4,1,2,1
+Talleres (RdE),Almagro,-1,4,1,1,2
+Talleres (RdE),Estudiantes (LP),-1,4,1,1,2
+Talleres (RdE),Ferro,+2,4,3,0,1
+Talleres (RdE),Huracan,-3,4,0,1,3
+Talleres (RdE),Independiente,-4,4,0,0,4
+Talleres (RdE),Quilmes,-4,4,0,0,4
+Talleres (RdE),Argentino (Q),+2,3,2,1,0
+Talleres (RdE),Chacarita,+1,3,1,2,0
+Talleres (RdE),El Porvenir,+2,3,2,1,0
+Talleres (RdE),Boca Juniors,-1,3,1,0,2
+Talleres (RdE),Argentinos,-1,3,0,2,1
+Talleres (RdE),Sp. Barracas,-1,3,0,2,1
+Talleres (RdE),Colegiales,+1,2,1,1,0
+Temperley,All Boys,+1,4,2,1,1
+Temperley,Nueva Chicago,-4,4,0,0,4
+Temperley,El Porvenir,+1,4,2,1,1
+Temperley,Argentinos,+2,4,3,0,1
+Temperley,Huracan,-1,4,1,1,2
+Temperley,Sp. Barracas,0,3,1,1,1
+Temperley,Dock Sud,0,3,1,1,1
+Temperley,Argentino (Q),-1,3,1,0,2
+Temperley,Boca Juniors,+1,2,1,1,0
+Temperley,Estudiantes (LP),-1,1,0,0,1
+Temperley,Colegiales,+1,1,1,0,0
+Temperley,Chacarita,+1,1,1,0,0
+Tigre,Atlanta,+5,21,10,6,5
+Tigre,Independiente,-8,20,4,4,12
+Tigre,Racing Club,-9,19,4,2,13
+Tigre,River Plate,-6,19,5,3,11
+Tigre,Estudiantes (BA),+9,19,12,4,3
+Tigre,Platense,0,19,6,7,6
+Tigre,Gimnasia (LP),-7,19,4,4,11
+Tigre,San Lorenzo,-4,18,5,4,9
+Tigre,Def. de Belgrano,-5,18,3,7,8
+Tigre,Ferro,+6,17,11,1,5
+Tigre,Banfield,+2,15,6,5,4
+Tigre,Quilmes,+3,15,8,2,5
+Tigre,Velez,0,14,4,6,4
+Tigre,Barracas Central,-2,13,4,3,6
+Tigre,Lanus,-2,13,4,3,6
+Tigre,Estudiantes (LP),-10,13,1,1,11
+Tigre,Argentino (Q),-2,10,4,0,6
+Tigre,Huracan,-8,8,0,0,8
+Tigre,Boca Juniors,-3,7,2,0,5
+Tigre,Sp. Barracas,-4,6,1,0,5
+Tigre,Talleres (RdE),+1,5,2,2,1
+Tigre,Excursionistas,+4,5,4,1,0
+Tigre,Almagro,+3,4,3,1,0
+Tigre,Argentinos,0,3,1,1,1
+Tigre,Chacarita,-2,3,0,1,2
+Tigre,El Porvenir,+2,3,2,1,0
+Tigre,Colegiales,-1,2,0,1,1
+Velez,San Lorenzo,-8,15,1,5,9
+Velez,Independiente,-6,15,3,3,9
+Velez,Def. de Belgrano,+1,15,6,4,5
+Velez,Atlanta,+5,14,7,5,2
+Velez,Tigre,0,14,4,6,4
+Velez,Estudiantes (BA),+5,14,7,5,2
+Velez,Ferro,+3,14,6,5,3
+Velez,Gimnasia (LP),-3,14,3,5,6
+Velez,River Plate,-9,14,0,5,9
+Velez,Barracas Central,+4,14,7,4,3
+Velez,Racing Club,-10,14,2,0,12
+Velez,Quilmes,+3,14,8,1,5
+Velez,Platense,+2,14,6,4,4
+Velez,Lanus,-1,12,4,3,5
+Velez,Banfield,+1,11,4,4,3
+Velez,Excursionistas,+1,6,3,1,2
+Velez,Estudiantes (LP),-3,6,1,1,4
+Velez,Sp. Barracas,+2,5,3,1,1
+Velez,Chacarita,-2,4,1,0,3
+Velez,Talleres (RdE),+2,4,3,0,1
+Velez,Argentino (Q),+2,4,2,2,0
+Velez,Argentinos,+2,4,3,0,1
+Velez,Boca Juniors,-4,4,0,0,4
+Velez,Almagro,+2,3,2,1,0
+Velez,Huracan,-1,3,0,2,1
+Velez,El Porvenir,0,2,1,0,1
+Velez,Colegiales,+1,1,1,0,0
